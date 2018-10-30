@@ -1,3 +1,4 @@
+#32:24
 describe Author do
   let(:author){Author.new.tap{|a| a.name = "Ernest Hemingway"}}
   let(:story){Story.new.tap{|s| s.name = "The Old Man and the Sea"}}
