@@ -1,4 +1,5 @@
-#32:24
+#32:24 - time from following along in video
+# https://www.youtube.com/watch?time_continue=16&v=iYcQ693LXck
 describe Author do
   let(:author){Author.new.tap{|a| a.name = "Ernest Hemingway"}}
   let(:story){Story.new.tap{|s| s.name = "The Old Man and the Sea"}}
